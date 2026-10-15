@@ -601,10 +601,10 @@
       font-weight: 500;
     }
   }
+}
 
-  & + .cart-summary {
-    margin-top: $space-5;
-  }
+.cart-summary {
+  margin-top: $space-5;
 }
 
 .cart-summary {
